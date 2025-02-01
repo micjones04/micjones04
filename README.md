@@ -13,20 +13,23 @@ My interest in technology led me to pursue a formal education in Cybersecurity a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Splunk Orchestration and Telemetry            | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Brute Force Simulation with Crowbar           | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Active Directory Domain Services/Users and Groups Creation          | SOC Automation Lab|
+| Oracle Virtual Box and VM Setup | SOC Automation Lab|
 
 ## Tools
 
-### Network
+### Investigation Analysis
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-00B5E2?&style=for-the-badge&logo=Nessus&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-3949AB?style=for-the-badge&logo=VirusTotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-FF5733?style=for-the-badge&logo=MITRE&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CVE-0078D7?style=for-the-badge&logo=CVSS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ANY.RUN-FF9E0F?style=for-the-badge&logo=Google%20Drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CyberChef-4CAF50?style=for-the-badge&logo=CodeSandbox&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -36,7 +39,7 @@ My interest in technology led me to pursue a formal education in Cybersecurity a
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kusto%20Query%20Language-512BD4?style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
@@ -47,6 +50,8 @@ My interest in technology led me to pursue a formal education in Cybersecurity a
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-ITIL%204%20Certified-5A5A5A?&style=for-the-badge&logoColor=white" />>
+<img src="https://img.shields.io/badge/-Linux%20Essentials-4EAA25?style=for-the-badge&logo=Linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-(ISC)²%20Associate%20of%20SSCP-00ADEF?style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
 
 ## Projects
