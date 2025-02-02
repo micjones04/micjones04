@@ -13,12 +13,7 @@ My interest in technology led me to pursue a formal education in Cybersecurity a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Splunk Orchestration and Telemetry            | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Brute Force Simulation with Crowbar           | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Active Directory Domain Services/Users and Groups Creation          | SOC Automation Lab|
-| Oracle Virtual Box and VM Setup | SOC Automation Lab|
+| ADDS Brute Force Lab Simmulation              | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
 
