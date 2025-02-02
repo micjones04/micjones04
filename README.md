@@ -13,7 +13,7 @@ My interest in technology led me to pursue a formal education in Cybersecurity a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| ADDS Brute Force Lab Simmulation              | <a href="(https://github.com/micjones04/Active-Directory-Domain-Services2)">Detection Lab</a>|
+| ADDS Brute Force Lab Simmulation              | <a href="[https://github.com/micjones04/Active-Directory-Domain-Services2]">Detection Lab</a>|
 
 ## Tools
 
