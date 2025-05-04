@@ -9,13 +9,11 @@ I am a current information technology student with a enthusiastic interest in te
 My interest in technology led me to pursue a formal education in Cybersecurity and information technology.  My studies have reconfirmed my desire and interest in the field.  I am devoted to transitioning into the field of information technology, with a goal of earning a positioning as a Tier 1 SOC Analyst.
 
 ## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
 - **Active Directory Domain Services (ADDS)**: [Brute Force Lab Simulation]  | <a href="https://github.com/micjones04/Active-Directory-Domain-Services2">Detection Lab</a>|
-| Ticketing Systems Lab Simulation              | <a href="https://github.com/micjones04/Ticketing-Systems">Detection Lab</a>|
+- **Ticketing Systems**: [Lab Simulation](link-to-repo)                      | <a href="https://github.com/micjones04/Ticketing-Systems">Detection Lab</a>|
 - **Wireshark**: [Packet Analysis Project](link-to-repo)
 - **Python Scripting**: [Automation Scripts](link-to-repo)
+
 ## Tools
 
 ### Investigation Analysis
