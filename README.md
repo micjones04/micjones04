@@ -23,21 +23,38 @@ My goal is to secure a Tier 1 SOC Analyst role where I can apply my experience i
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-VirusTotal-3949AB?style=for-the-badge&logo=VirusTotal&logoColor=white" />
     <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-FF5733?style=for-the-badge&logo=MITRE&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CVE-0078D7?style=for-the-badge&logo=CVSS&logoColor=white" />
     <img src="https://img.shields.io/badge/-ANY.RUN-FF9E0F?style=for-the-badge&logo=Google%20Drive&logoColor=white" />
     <img src="https://img.shields.io/badge/-CyberChef-4CAF50?style=for-the-badge&logo=CodeSandbox&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint & Logging
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Sysmon-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%20Event%20Logs-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
-### SIEM
+### SIEM & Detection
 <div>
     <img src="https://img.shields.io/badge/-Kusto%20Query%20Language-512BD4?style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Cloud & Identity
+<div>
+<img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%20Entra%20ID-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Conditional%20Access-5E5E5E?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Azure%20AD%20Logs-5E5E5E?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### Lab & Security Tooling
+<div>
+<img src="https://img.shields.io/badge/-Active%20Directory-003366?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kali%20Linux-268BEE?&style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Impacket-222222?&style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
 </div>
 
 ## Certifications
@@ -54,5 +71,12 @@ My goal is to secure a Tier 1 SOC Analyst role where I can apply my experience i
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Detection Lab — Simulated credential misuse and log analysis in Splunk
+- SOC Automation Project — Building automated alert enrichment workflows
+
+## Planned Projects (Active Roadmap)
+- Privilege Escalation Detection Lab
+- SMB Lateral Movement Simulation
+- Data Exfiltration Detection Scenario
+- Azure Identity Attack & Detection Lab
+- Cloud Security Monitoring with Entra ID Logs
