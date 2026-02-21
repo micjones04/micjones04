@@ -71,8 +71,8 @@ My goal is to secure a Tier 1 SOC Analyst role where I can apply my experience i
 </div>
 
 ## Projects
-- Detection Lab — Simulated credential misuse and log analysis in Splunk
-- SOC Automation Project — Building automated alert enrichment workflows
+- Detection Lab — Simulated credential misuse and log analysis in Splunk to identify authentication anomalies.
+- SOC Automation Project — Building automated alert enrichment workflows to simulate SOC analyst triage.
 
 ## Planned Projects (Active Roadmap)
 - Privilege Escalation Detection Lab
