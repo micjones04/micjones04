@@ -2,16 +2,18 @@
 <a href="https://linkedin/michael-jones-9958259b.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a current information technology student with a enthusiastic interest in technology and problem solving.  
+I’m a cybersecurity graduate and hands-on lab builder with a strong interest in detection engineering, incident investigation, and SOC operations.
+I enjoy simulating real-world attack scenarios, analyzing telemetry, and building detections that tell the story behind the logs. 
 
 ## Objective
 
-My interest in technology led me to pursue a formal education in Cybersecurity and information technology.  My studies have reconfirmed my desire and interest in the field.  I am devoted to transitioning into the field of information technology, with a goal of earning a positioning as a Tier 1 SOC Analyst.
+My goal is to secure a Tier 1 SOC Analyst role where I can apply my experience in SIEM analysis, Active Directory security, and threat detection while continuing to grow into detection engineering and incident response.
 
 ## Skills
 - **Active Directory Domain Services (ADDS)**: [Brute Force Lab Simulation]  | <a href="https://github.com/micjones04/Active-Directory-Domain-Services2">Detection Lab</a>|
-- **Ticketing Systems**: [Lab Simulation](link-to-repo)                      | <a href="https://github.com/micjones04/Ticketing-Systems">Detection Lab</a>|
-- **Wireshark**: [Packet Analysis Project](link-to-repo)
+-**Security Detection & Investigation**: [Lateral Movement Detection Lab]
+- **Ticketing Systems & IT Operations**: [Lab Simulation](link-to-repo)                      | <a href="https://github.com/micjones04/Ticketing-Systems">Detection Lab</a>|
+- **Network Traffice Analysis**: [Wireshark Packet Analysis Project](link-to-repo)
 - **Python Scripting**: [Automation Scripts](link-to-repo)
 
 ## Tools
