@@ -73,7 +73,7 @@ My goal is to secure a Tier 1 SOC Analyst role where I can apply my experience i
 ## Projects
 - Detection Lab — Simulated credential misuse and log analysis in Splunk to identify authentication anomalies.
 - SOC Automation Project — Building automated alert enrichment workflows to simulate SOC analyst triage.
-- SMB Lateral Movement Simulation
+- SMB Lateral Movement Simulation — Simulated PsExec-based lateral movement and performed investigation using Windows and Sysmon telemetry
   
 ## Planned Projects (Active Roadmap)
 - Privilege Escalation Detection Lab
