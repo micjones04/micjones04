@@ -73,10 +73,10 @@ My goal is to secure a Tier 1 SOC Analyst role where I can apply my experience i
 ## Projects
 - Detection Lab — Simulated credential misuse and log analysis in Splunk to identify authentication anomalies.
 - SOC Automation Project — Building automated alert enrichment workflows to simulate SOC analyst triage.
-
+- SMB Lateral Movement Simulation
+  
 ## Planned Projects (Active Roadmap)
 - Privilege Escalation Detection Lab
-- SMB Lateral Movement Simulation
 - Data Exfiltration Detection Scenario
 - Azure Identity Attack & Detection Lab
 - Cloud Security Monitoring with Entra ID Logs
