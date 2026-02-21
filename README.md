@@ -9,7 +9,7 @@ I enjoy simulating real-world attack scenarios, analyzing telemetry, and buildin
 
 My goal is to secure a Tier 1 SOC Analyst role where I can apply my experience in SIEM analysis, Active Directory security, and threat detection while continuing to grow into detection engineering and incident response.
 
-## Skills
+#### Skills
 - **Active Directory Domain Services (ADDS)**: [Brute Force Lab Simulation]  | <a href="https://github.com/micjones04/Active-Directory-Domain-Services2">Detection Lab</a>|
 - **Security Detection & Investigation**: [Lateral Movement Detection Lab]
 - **Ticketing Systems & IT Operations**: [Lab Simulation](link-to-repo)                      | <a href="https://github.com/micjones04/Ticketing-Systems">Detection Lab</a>|
@@ -42,6 +42,9 @@ My goal is to secure a Tier 1 SOC Analyst role where I can apply my experience i
 
 ## Certifications
 <div>
+<img src="https://img.shields.io/badge/-CySA%2B-00599C?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-PenTest%2B-990000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Project%2B-6A0DAD?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
