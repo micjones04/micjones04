@@ -2,8 +2,7 @@
 <a href="https://linkedin/michael-jones-9958259b.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I’m a cybersecurity graduate and hands-on lab builder with a strong interest in detection engineering, incident investigation, and SOC operations.
-I enjoy simulating real-world attack scenarios, analyzing telemetry, and building detections that tell the story behind the logs. 
+I’m a cybersecurity graduate and hands-on lab builder focused on SOC detection engineering, threat investigation, and adversary simulation. I enjoy simulating real-world attacks, analyzing telemetry, and building detections that tell the story behind the logs.
 
 ## Objective
 
