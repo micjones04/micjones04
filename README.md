@@ -13,7 +13,7 @@ My goal is to secure a Tier 1 SOC Analyst role where I can apply my experience i
 - **Active Directory Domain Services (ADDS)**: [Brute Force Lab Simulation]  | <a href="https://github.com/micjones04/Active-Directory-Domain-Services2">Detection Lab</a>|
 - **Security Detection & Investigation**: [Lateral Movement Detection Lab] |  <a href="https://github.com/micjones04/lateral-movement-detection-splunk">Detection Lab</a>|
 - **Ticketing Systems & IT Operations**: [Lab Simulation](link-to-repo)                      | <a href="https://github.com/micjones04/Ticketing-Systems">Detection Lab</a>|
-
+- **LSASS Credential Dumping Detection Lab**: [Lateral Movement Detection Lab] |  <a href="https://github.com/micjones04/LSASS-Credential-Dumping-Detection-Lab">Detection Lab</a>|
 ## Tools
 
 ### Investigation Analysis
