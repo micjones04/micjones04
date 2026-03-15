@@ -13,6 +13,7 @@ My goal is to secure a Tier 1 SOC Analyst role where I can apply my experience i
 - **Security Detection & Investigation**: [Lateral Movement Detection Lab] |  <a href="https://github.com/micjones04/lateral-movement-detection-splunk">View Detection Lab</a>|
 - **Ticketing Systems & IT Operations**: [Lab Simulation] | <a href="https://github.com/micjones04/Ticketing-Systems">View Detection Lab</a>|
 - **LSASS Credential Dumping Detection Lab**: [Lateral Movement Detection Lab] |  <a href="https://github.com/micjones04/LSASS-Credential-Dumping-Detection-Lab">View Detection Lab</a>|
+- - **SOC-Detection-Lab-SMB-BruteForce**: [Brute Force Lab Simulation]  | <a href="https://github.com/micjones04/SOC-Detection-Lab-SMB-BruteForce">View Detection Lab</a>|
 ## Tools
 
 ### Investigation Analysis
